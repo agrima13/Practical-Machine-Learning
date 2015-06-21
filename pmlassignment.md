@@ -199,8 +199,5 @@ prp(rpart(classe~., data = valdata, method="class"))
 ```
 
 ![alt text][id]
-
-At the bottom of the document:
-
-[id]: Rplot01.png "Title"
+[id]: Rplot01.png 
 
